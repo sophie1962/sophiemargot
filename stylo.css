@@ -1,0 +1,81 @@
+/* ********************SECTION 1  page  risques***************************** */
+
+#lion {
+   /*  height: 80vh;
+    width: 100vw;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto; */
+    width: 100%;
+}
+
+.container {
+    /* background-color: lightgray; */
+}
+#capital {
+    color: red;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#regions {
+
+    font-size: 3rem;
+}
+
+
+
+#cyclone {
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-top: -5rem;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding-left: 3rem;
+    padding-top: 2rem;
+    width:80%;
+}
+
+.view {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.texteview {
+    font-size: 2rem;
+}
+
+.toto{
+    border:0.5rem solid red;
+}
+
+/* #disparaitre {
+    display: none; *   FAIRE UN SITE RESPONSIVE SUR MOBILE/
+/* /* */ 
+
+@media screen and (max-width:680px) {
+      
+    .texteview {
+        font-size: 0.3rem;
+    } 
+    #capital {
+        font-weight: bold;
+        font-size: 0.5rem;
+    }
+}
+
+#navbar2 {
+    background-color: red;
+}
+#submit {
+    height: 4rem;
+    width: auto;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+    background-color: rgb(190, 200, 37);
+}
+
+/* section 2 */
+
+
